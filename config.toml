@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/thematterhorn"
 [[menu.main]]
     name = "Linkedin"
     url = "https://www.linkedin.com/in/matt-pitt-23737960/"
@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "hugo-logo.png"
     width = 50
     height = 50
     alt = "Logo"
